@@ -10,7 +10,7 @@ import retrofit2.http.GET;
 
 /**
  * Created by ARAGoTo on 2017/11/20.
- *
+ *GankApi
  */
 
 public interface GankApi {
