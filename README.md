@@ -1,2 +1,2 @@
 # myrxlearn
-简单使用rxjava+retrofit
+简单使用rxjava2+retrofit2
